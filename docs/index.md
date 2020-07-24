@@ -2,6 +2,9 @@
 
 index page
 
+![root](./imgs/root.png)
+
+
 jekyll のテスト用
 
 index.md
