@@ -1,3 +1,6 @@
+---
+redirect_from: /
+---
 # index
 
 index page
