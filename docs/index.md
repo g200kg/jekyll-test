@@ -2,7 +2,7 @@
 
 index page
 
-![root](./imgs/root2.png)
+![root](./imgs/root3.png)
 
 
 jekyll のテスト用
