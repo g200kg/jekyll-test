@@ -4,5 +4,7 @@ jekyll のテスト用
 
 README.md
 
-![root](./docs/img/root.png)
+![root1](./root.png)  
+
+![root2](./docs/imgs/root.png)
 
