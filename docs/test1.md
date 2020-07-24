@@ -2,7 +2,7 @@
 
 test1  
 
-![root](./imgs/root3.png)
+![root](./imgs/root.png)
 
 test1.md  
 
